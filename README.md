@@ -1,10 +1,11 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+
+<img src="https://github.com/kw4rgs/kw4rgs/assets/97613884/55491091-6397-4362-baed-0e9feff01a7f" align="center" style="width: 100%" />
 </div>  
   
 
-## <div align="center">Hi! ✌️ I'm Cristian Zurita (kw4rgs) I am a full stack developer  🧑‍💻 and a machine learning specialist 🤖</div>  
-  
+## <div align="center">Hi! ✌️ I'm Cristian Zurita, a full stack developer 🧑‍💻 and a machine learning specialist 🤖</div>  
+<br/>    
 
 - 🔭 I’m currently working on [Babel](https://github.com/kw4rgs/babel), [Clusterify](https://github.com/kw4rgs/clusterify) and [Okam](https://github.com/kw4rgs/okam-api)  
   
