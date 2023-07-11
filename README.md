@@ -4,7 +4,7 @@
 </div>  
   
 
-## <div align="center">Hi! I'm Cristian Zurita ✌️ , a full stack developer and a machine learning enthusiast </div>  
+## <div align="center">Hi! I'm Cristian Zurita ✌️ , a software developer and a machine learning enthusiast </div>  
 <br/>    
 
 - 🔭 I’m currently working on [Babel](https://github.com/kw4rgs/babel), [Clusterify](https://github.com/kw4rgs/clusterify) and [Okam](https://github.com/kw4rgs/okam-api)  
