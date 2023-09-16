@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on [Babel](https://github.com/kw4rgs/babel), [Clusterify](https://github.com/kw4rgs/clusterify) and [Okam](https://github.com/kw4rgs/okam-api)  
   
 
-- 🌱 I’m currently learning [React](https://es.react.dev/) and [Nextjs](https://nextjs.org/)  
+- 🌱 I’m currently learning and practicing [Apache Spark](https://spark.apache.org/) and [TensorFlow ](https://www.tensorflow.org/?hl=es-419)  
   
 
 - ❓ Also you can ask me about anything related to computer networks and telecommunications 📶  
